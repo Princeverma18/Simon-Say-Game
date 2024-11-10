@@ -17,5 +17,4 @@ CSS: Handles the styling and animations.
 JavaScript: Implements the game logic and interactivity.
 
 Installation:
-To run this project locally, follow these steps:
 Clone the repository: git clone https://github.com/Princeverma18/simon-says-game.git
